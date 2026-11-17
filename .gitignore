@@ -1,0 +1,28 @@
+# ===== Keil MDK 编译中间产物 =====
+MDK-ARM/Blink/
+MDK-ARM/DebugConfig/
+MDK-ARM/*.uvguix.*
+MDK-ARM/RTE/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.iex
+*.dep
+*.lnp
+*.sct
+*.bak
+*.scvd
+*.build_log.htm
+*.htm
+
+# ===== 系统与编辑器 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+*.log
